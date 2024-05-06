@@ -1,0 +1,10 @@
+coverage
+coverage-badge
+flake8
+openpyxl
+pyinstaller
+pytest
+pytest-cov
+pytest-mock
+tox
+setuptools
